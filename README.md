@@ -7,13 +7,13 @@ The quick template thing for when I need to do things quickly.
 ```
 # *Project title*
 
-* Adrian
-* Adrianblahblah
-* Adrianbloohblah
-
 *Short description of your project, in one or two sentences.* 
 
 ## Languages used
+
+* Adrian
+* Adrianblahblah
+* Adrianbloohblah
 
 ### Dependencies
 
