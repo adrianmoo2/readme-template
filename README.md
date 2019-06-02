@@ -9,7 +9,7 @@ The quick template thing for when I need to do things quickly.
 
 *Short description of your project, in one or two sentences.* 
 
-## Languages used
+## Languages / Frameworks used
 
 * Adrian
 * Adrianblahblah
