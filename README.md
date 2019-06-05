@@ -15,7 +15,7 @@ The quick template thing for when I need to do things quickly.
 * Adrianblahblah
 * Adrianbloohblah
 
-## Purpose / Goal
+## Purpose / Goals
 
 ### Dependencies
 
