@@ -15,6 +15,8 @@ The quick template thing for when I need to do things quickly.
 * Adrianblahblah
 * Adrianbloohblah
 
+## Purpose / Goal
+
 ### Dependencies
 
 *Provide links and descriptions for the third-party libraries you're having your users install.*
