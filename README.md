@@ -1,6 +1,6 @@
 # Adrian README Template
 
-The quick template thing for when I need to do things quickly.
+The quick template thing for when I need to document code, quickly.
 
 ## The template
 
