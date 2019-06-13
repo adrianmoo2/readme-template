@@ -13,7 +13,7 @@ The quick template thing for when I need to document code, quickly.
 
 * Adrian
 * Adrianblahblah
-* Adrianbloohblah
+* Adrianbloohblahblooey
 
 ## Purpose / Goals
 
