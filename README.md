@@ -5,7 +5,7 @@ The quick template thing for when I need to document code, quickly.
 ## The template
 
 ```
-# *Project title*
+# Project title
 
 *Short description of your project, in one or two sentences.* 
 
