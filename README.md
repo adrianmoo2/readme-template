@@ -44,6 +44,7 @@ The quick template thing for when I need to document code, quickly.
 
 ## Team
 
+* User's Name
 * *Name, Organization - role or tasks worked on*
 
 *Add a "contributors" section if you've incorporated pull requests.*
